@@ -8,7 +8,7 @@
 
 ### Summary
 
-A simple game about balance, and trying to land a rocket upright. Press A and D to rotate the rocket around, and SPACE to trigger the booster. 
+A simple game (made in unity) about balance, and trying to land a rocket upright. Press A and D to rotate the rocket around, and SPACE to trigger the booster. 
 
 Try not to hit the birds on your way down!
 
