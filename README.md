@@ -2,7 +2,7 @@
 <h1 align="center">🚀 Anyone can land a rocket, right? 🚀</h1> 
 
 <p align="center">
-	<img src="https://img.shields.io/badge/Version-3.0-green.svg" alt="Version">
+	<img src="https://img.shields.io/badge/Version-1.0-green.svg" alt="Version">
 	<img src="https://img.shields.io/badge/Updated-October%202025-yellowgreen.svg" alt="Updated">
 </p>
 
