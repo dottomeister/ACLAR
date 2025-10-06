@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="48559e92-2bd6-4f7c-97bb-15781df24fa2" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="MetaFilesCheckinStateConfiguration" checkMetaFiles="false" />
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)"
+  }
+}]]></component>
+  <component name="TaskManager">
+    <servers />
+  </component>
+  <component name="UnityCheckinConfiguration" checkUnsavedScenes="false" />
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+</project>
