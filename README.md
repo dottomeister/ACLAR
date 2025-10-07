@@ -1,11 +1,6 @@
 
 <h1 align="center">🚀 Anyone can land a rocket, right? 🚀</h1> 
 
-<p align="center">
-	<img src="https://img.shields.io/badge/Version-1.0-green.svg" alt="Version">
-	<img src="https://img.shields.io/badge/Updated-October%202025-yellowgreen.svg" alt="Updated">
-</p>
-
 ## 📖 Summary
 ---
 
@@ -17,10 +12,7 @@ to their rocket landings.
 ---
 
 
-<p align="center">
-	https://github.com/user-attachments/assets/b6530846-63ef-4f7e-a403-0941742292f0
-</p>
-
+![ezgif-48597063631982](https://github.com/user-attachments/assets/cc2a2ac4-3187-4198-b5d9-ff9f1dc9aa5c)
 
 
 ## 🕹️ How to play
@@ -33,4 +25,3 @@ Try not to hit the birds on your way down!
 ---
 
 This project is not currently open source or licensed for reuse. For portfolio purposes only.
-
