@@ -9,19 +9,16 @@
 ## 📖 Summary
 ---
 
-> Anyone can land a rocket, right? Is a simple game, made in unity, about balance and trying to land a rocket. It was inspired by the hot topic news (of the time) about Elon Musk's
-> SpaceX reusable rockets that could land after having carried a payload to space. It was an attempt to both adhere to the theme of the jam (balance) and to make a humorous homage
-> to their rocket landings.
+Anyone can land a rocket, right? Is a simple game, made in unity, about balance and trying to land a rocket. It was inspired by the hot topic news (of the time) about Elon Musk's
+SpaceX reusable rockets that could land after having carried a payload to space. It was an attempt to both adhere to the theme of the jam (balance) and to make a humorous homage
+to their rocket landings.
 
 ## Watch the gameplay snippet below!
 ---
 
 
 <p align="center">
-
-https://github.com/user-attachments/assets/b6530846-63ef-4f7e-a403-0941742292f0
-
-
+	https://github.com/user-attachments/assets/b6530846-63ef-4f7e-a403-0941742292f0
 </p>
 
 
@@ -29,7 +26,8 @@ https://github.com/user-attachments/assets/b6530846-63ef-4f7e-a403-0941742292f0
 ## 🕹️ How to play
 ---
 
-    Press A and D to rotate the rocket around, and SPACE to trigger the booster. Try not to hit the birds on your way down!
+Press A and D to rotate the rocket around, and SPACE to trigger the booster.
+Try not to hit the birds on your way down!
 
 ## 📝 License
 ---
