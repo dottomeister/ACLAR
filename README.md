@@ -12,7 +12,7 @@ of the jam (_balance_) and to make a humorous homage to their rocket landings, a
 
 ## 🛠️ Implementation details
 
-This game was made from scratch in Unity in under 8 hours, and contains several features:
+This game was made from scratch in Unity in under 8 hours using C#, and contains several features:
 
 - Minimap – Accurate representation of where the rocket actually is at all times.
 - Power-ups – Different abilities that affect gameplay in new ways.
